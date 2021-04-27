@@ -1,5 +1,11 @@
 # README
 
+AP-AV has no published version at this time.
+
+
+
+
+
 Members of the [OASIS Open Command and Control (OpenC2) TC](https://www.oasis-open.org/committees/openc2/) create and manage technical content in this TC GitHub repository (https://github.com/oasis-tcs/openc2-ap-av/) as part of the TC's chartered work (the program of work and deliverables described in its [charter](https://www.oasis-open.org/committees/openc2/charter.php).
 
 OASIS TC GitHub repositories, as described in [GitHub Repositories for OASIS TC Members' Chartered Work](https://www.oasis-open.org/resources/tcadmin/github-repositories-for-oasis-tc-members-chartered-work), are governed by the OASIS [TC Process](https://www.oasis-open.org/policies-guidelines/tc-process), [IPR Policy](https://www.oasis-open.org/policies-guidelines/ipr), and other policies.
